@@ -138,7 +138,7 @@ public void registerReactions(Reactions registry) {
 
 ## Download
 
-(Soon) Latest Stable Version: [GitHub Release](https://github.com/DV8FromTheWorld/JDA/releases/latest)
+(Soon) Latest Stable Version: [GitHub Release](https://github.com/Juloass/DiscoBee/releases/latest)
 
 ## Documentation
 Java Docs will be coming soon.
