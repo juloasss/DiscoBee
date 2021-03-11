@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Juloass/DiscoBee/blob/assets/assets/readme/logo.png?raw=true" height="200" width="200">
+<img align="right" src="https://github.com/Juloass/DiscoBee/blob/assets/readme/logo.png?raw=true" height="200" width="200">
 
 # DiscoBee (Java Discord Bot FrameWork)
 
