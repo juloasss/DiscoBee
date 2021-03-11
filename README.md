@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/Juloass/DiscoBee/blob/assets/assets/readme/logo.png?raw=true" height="200" width="200">
+
 # DiscoBee (Java Discord Bot FrameWork)
 
 Discord Bot Engine, or DiscoBee, is aiming to provide a simple way of creating a Discord Bot.
