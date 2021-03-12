@@ -152,7 +152,7 @@ A discord will soon be available
 
 ## Contributing to DiscoBee
 
-I will gladly receive any contribution to the project (I have.. nothing more to say, sorry ;\_; salut)
+I will gladly receive any contribution to the project ♥
 
 ## Dependencies:
 
