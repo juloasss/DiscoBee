@@ -32,6 +32,7 @@ public class ExampleBot extends DiscoBee {
   
   @Override
   public Specifications getBotSpecifications() {}
+  
 }
 ```
 ### Configuration
