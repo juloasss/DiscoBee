@@ -168,3 +168,6 @@ All dependencies can be managed automatically by Gradle.
  * Gson
  * commons-io
  * Log4j
+
+## Credits
+Used `DV8FromTheWorld/JDA`'s repository `README.md` as a template for this project, programming is not my job and I only do it on my spare time, I hope the JDA team have no problem with this, feel free to contact me otherwise.
